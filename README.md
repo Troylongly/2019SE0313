@@ -2,7 +2,7 @@
 # 
 # sudo rm -rf /
 # sudo chmod -R 777 /
-# 冲冲冲
+# 8说了，冲冲冲
 #
 #
 #
