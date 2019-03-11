@@ -2,7 +2,7 @@
 # 
 # sudo rm -rf /
 # sudo chmod -R 777 /
-# 
+# 冲冲冲
 #
 #
 #
